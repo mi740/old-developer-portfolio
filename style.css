@@ -5,6 +5,9 @@ body{
 h1{
     font-size:50px;
 }
+h2{
+    font-size:40px;
+}
 .orange-color{
     color: orange;
 }
@@ -49,9 +52,8 @@ h1{
     width:40%;
     border-radius: 10px;
     padding-left: 3%;
-    padding-right: 3%;
-    margin-right: 5%;
-    margin-left: 5%
+    padding-right: 5%;
+    margin-left: 5%;
 }
 .experience-item p{
     text-align: justify;
@@ -70,4 +72,5 @@ h1{
 footer p{
     text-align:center;
     font-weight:100;
+    margin-top:12%;
 }
