@@ -52,8 +52,9 @@ h2{
     width:40%;
     border-radius: 10px;
     padding-left: 3%;
-    padding-right: 5%;
+    padding-right: 3%;
     margin-left: 5%;
+    margin-right: 5%;
 }
 .experience-item p{
     text-align: justify;
